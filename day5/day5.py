@@ -1,6 +1,3 @@
-import itertools
-
-
 class BaseDay:
     INPUT = "input.txt"
 
